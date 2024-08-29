@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Alex (or Lemus), a passionate mobile developer
 
 ## About Me
 
-- 💼 Currently working as a mobile developer at Softtek.
+- 💼 Currently working as a mobile developer.
 - 🎓 Graduated from the National Technological University of Mexico, León Campus, with a specialization in software development.
 - 💻 Experienced in developing native applications for Android and iOS, as well as using cross-platform technologies like Xamarin, React Native, and Flutter.
 - 🚀 Passionate about exploring new technologies and constantly learning to improve my skills.
