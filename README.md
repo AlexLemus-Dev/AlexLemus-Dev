@@ -14,6 +14,10 @@ Welcome to my GitHub profile! I'm Alex (or Lemus), a passionate mobile developer
 - 🌐 **Personal website:** [alexlemus.dev](https://alexlemus.dev)
 - 🛠️ **Dotfiles & setup:** [Dotfiles on GitHub](https://github.com/AlexLemus-Dev/dotfiles)
 
+## 🏅 Developer Badges
+
+[![Codewars](https://www.codewars.com/users/AlexLemusDev/badges/large)](https://www.codewars.com/users/AlexLemusDev)
+
 ## 📫 Contact
 
 I'd love to connect with you! You can find me at:
